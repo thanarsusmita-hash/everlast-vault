@@ -1,0 +1,4 @@
+- [x] Replace the starter placeholder with the Vault operations console.
+- [x] Add simulated cluster health, object placement, integrity, and repair interactions.
+- [x] Define the dark operator-focused visual system and page metadata.
+- [ ] Validate the preview on desktop and mobile; fix any visible or build errors.
